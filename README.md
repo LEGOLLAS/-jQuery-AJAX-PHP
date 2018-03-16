@@ -1,2 +1,2 @@
-# -jQuery-AJAX-PHP
-# -데이터베이스에저장하기
+jQuery-AJAX-PHP 활용
+* 데이터베이스에 저장하기
